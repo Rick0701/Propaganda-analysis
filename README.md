@@ -6,6 +6,10 @@
 
 *Riccardo Ricci* ([https://github.com/Rick0701](https://github.com/Rick0701))
 
+**Summary**
+
+Conducted an in-depth analysis of Russian state media to investigate propaganda strategies used in shaping public opinion about the war in Ukraine. Built a large-scale dataset by scraping Channel One news transcripts and combined it with survey data from the Levada Center. Applied Python (Pandas, scrapy, spaCy) for data collection, cleaning, and natural language processing, and used Matplotlib and Vega-Altair for visualization. The project explored hypotheses on propaganda techniques—such as the use of slogans, portrayal of “heroes,” and framing of leadership—while linking media coverage trends with shifts in public attitudes.
+
 **Main Tools**
 
 <div align="center">
